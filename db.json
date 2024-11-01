@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "cart": [
+        {
+          "id": "2",
+          "name": "Smartphone",
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIyZttUj1bT3wwJPino_3_nVBH7mqe6CtzOL69zbHYTUHtjMHY7Gcgp9TtikhC0TalPjUHDAfzut5_3gavorULeGZBQPb3croCsKywqO9PAVtfQe1qgmos",
+          "price": 499.99
+        },
+        {
+          "id": "2",
+          "name": "Smartphone",
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIyZttUj1bT3wwJPino_3_nVBH7mqe6CtzOL69zbHYTUHtjMHY7Gcgp9TtikhC0TalPjUHDAfzut5_3gavorULeGZBQPb3croCsKywqO9PAVtfQe1qgmos",
+          "price": 499.99
+        },
+        {
+          "id": "2",
+          "name": "Smartphone",
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIyZttUj1bT3wwJPino_3_nVBH7mqe6CtzOL69zbHYTUHtjMHY7Gcgp9TtikhC0TalPjUHDAfzut5_3gavorULeGZBQPb3croCsKywqO9PAVtfQe1qgmos",
+          "price": 499.99
+        },
+        {
+          "id": "2",
+          "name": "Smartphone",
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIyZttUj1bT3wwJPino_3_nVBH7mqe6CtzOL69zbHYTUHtjMHY7Gcgp9TtikhC0TalPjUHDAfzut5_3gavorULeGZBQPb3croCsKywqO9PAVtfQe1qgmos",
+          "price": 499.99
+        },
+        {
+          "id": "2",
+          "name": "Smartphone",
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIyZttUj1bT3wwJPino_3_nVBH7mqe6CtzOL69zbHYTUHtjMHY7Gcgp9TtikhC0TalPjUHDAfzut5_3gavorULeGZBQPb3croCsKywqO9PAVtfQe1qgmos",
+          "price": 499.99
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIyZttUj1bT3wwJPino_3_nVBH7mqe6CtzOL69zbHYTUHtjMHY7Gcgp9TtikhC0TalPjUHDAfzut5_3gavorULeGZBQPb3croCsKywqO9PAVtfQe1qgmos",
+      "price": 999.99
+    },
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIyZttUj1bT3wwJPino_3_nVBH7mqe6CtzOL69zbHYTUHtjMHY7Gcgp9TtikhC0TalPjUHDAfzut5_3gavorULeGZBQPb3croCsKywqO9PAVtfQe1qgmos",
+      "price": 499.99
+    }
+  ]
+}
