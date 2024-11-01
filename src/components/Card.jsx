@@ -14,7 +14,7 @@ function Card({ item }) {
      
       const updatedCart = [...user.cart, item];
 
-      // Send a PUT request to update the user’s cart
+      
       await axios.patch(`http://localhost:3000/users/1`, {
         ...user,
         cart: updatedCart
